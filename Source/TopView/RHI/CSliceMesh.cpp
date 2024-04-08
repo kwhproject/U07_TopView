@@ -35,6 +35,5 @@ void ACSliceMesh::OnConstruction(const FTransform& Transform)
 void ACSliceMesh::BeginPlay()
 {
 	Super::BeginPlay();
-	
 }
 
