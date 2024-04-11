@@ -97,7 +97,6 @@ ACVertexMesh::ACVertexMesh()
 	ProcMesh->CreateMeshSection(0, Positions, Indices, Normals, UVs, Colors, TArray<FProcMeshTangent>(), true);
 	ProcMesh->SetRelativeScale3D(FVector(100));
 
-	
 }
 
 void ACVertexMesh::BeginPlay()
